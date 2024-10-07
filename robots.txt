@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ernsefle.github.io/sitemap.html.gz
+Sitemap: https://ernsefle.github.io/app/sitemap.html.gz
+Sitemap: https://ernsefle.github.io/assets/sitemap.html.gz
+Sitemap: https://ernsefle.github.io/css/sitemap.html.gz
+Sitemap: https://ernsefle.github.io/data/sitemap.html.gz
+Sitemap: https://ernsefle.github.io/includes/sitemap.html.gz
+Sitemap: https://ernsefle.github.io/item/sitemap.html.gz
+Sitemap: https://ernsefle.github.io/src/sitemap.html.gz
